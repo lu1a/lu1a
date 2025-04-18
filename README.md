@@ -6,5 +6,5 @@ At this moment I'm using [tangled.sh](tangled.sh). It's distributed yet has a sy
 
 ### Find me on
 
-- [tangled.sh](tangled.sh/@lu1.sh)
+- [tangled.sh/@lu1.sh](tangled.sh/@lu1.sh)
 - (Soon TM) own forgejo instance?
