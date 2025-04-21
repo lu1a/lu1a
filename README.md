@@ -1,8 +1,12 @@
 ## What's up people
 
-I am not actively using GitHub.
+I am not actively using GitHub!
 
-At this moment I'm daily driving [tangled.sh](https://tangled.sh). That's not an endorsement for Bluesky, it's an endorsement for my friends.
+<a href="https://shitpost.fi"> 
+  <img src="https://github.com/lu1a/lu1a/blob/main/thanos-add-stone.gif" alt="Thanos adding stone" />
+</a>
+
+At this moment I'm daily driving [tangled.sh](https://tangled.sh). That's not an endorsement for Bluesky, it's an endorsement for my friends!
 
 ### Find me on
 
