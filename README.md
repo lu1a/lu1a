@@ -2,7 +2,7 @@
 
 I am not actively using GitHub.
 
-At this moment I'm daily driving [tangled.sh](https://tangled.sh).
+At this moment I'm daily driving [tangled.sh](https://tangled.sh). That's not an endorsement for Bluesky, it's an endorsement for my friends.
 
 ### Find me on
 
