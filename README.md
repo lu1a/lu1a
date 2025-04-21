@@ -1,6 +1,4 @@
-## What's up people
-
-I am not actively using GitHub!
+## I am not actively using GitHub!
 
 I am out there exploring strange new architectures & programming languages. Gif related: me getting a grip on haskell circa 2024.
 
