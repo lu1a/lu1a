@@ -1,6 +1,6 @@
 ## I am not actively using GitHub!
 
-I am out there exploring strange new architectures & programming languages. Gif related: me getting a grip on haskell circa 2024.
+I am out there exploring strange new architectures & programming languages.
 
 <a href="https://shitpost.fi">
   <img src="https://github.com/lu1a/lu1a/blob/main/thanos-add-stone.gif" alt="Thanos adding stone" />
