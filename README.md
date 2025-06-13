@@ -6,10 +6,9 @@ I am out there exploring strange new architectures & programming languages.
   <img src="https://github.com/lu1a/lu1a/blob/main/thanos-add-stone.gif" alt="Thanos adding stone" />
 </a>
 
-At this moment I'm daily driving [tangled.sh](https://tangled.sh). That's not an endorsement for Bluesky, it's an endorsement for my friends!
+At this moment I'm daily driving my own git servers, with a little experimental platforms (Radicle and tangled.sh) on the side. The latter is not an endorsement for Bluesky, it's an endorsement for my friends!
 
-- Soon TM: [radicle.xyz](https://radicle.xyz).
-- I may end up just self-hosting GoT and having files available on HTTP and FTP.
+I might also add GoT to the mix.
 
 ### Find me on
 
