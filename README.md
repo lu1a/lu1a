@@ -12,5 +12,5 @@ I might also add GoT to the mix.
 
 ### Find me on
 
-- [tangled.sh/@lewis.moe](https://tangled.sh/@lewis.moe)
+- [codeberg.org/lu1a](https://codeberg.org/lu1a)
 - [shitpost.fi](https://shitpost.fi)
