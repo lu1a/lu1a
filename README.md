@@ -8,5 +8,5 @@ I am out there exploring strange new architectures & programming languages.
 
 ### Find me on
 
-- [tangled](https://tangled.org/lewis.moe)
+- [tangled]([https://tangled.org/lewis.moe](https://tangled.org/did:plc:3fwecdnvtcscjnrx2p4n7alz))
 - [oyster.cafe](https://oyster.cafe)
